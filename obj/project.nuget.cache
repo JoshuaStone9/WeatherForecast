@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ccKVAZ7gJ4k=",
+  "success": true,
+  "projectFilePath": "/Users/joshstone/Documents/GitHub/WeatherForecast/WeatherForecast.csproj",
+  "expectedPackageFiles": [
+    "/Users/joshstone/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "/Users/joshstone/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
